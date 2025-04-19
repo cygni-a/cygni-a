@@ -1,8 +1,8 @@
 Hello! I'm **cygni**. I like interactive fiction and video games.
 
-I make small games in Twine and Bitsy and collaborate on visual novels (in Ren'py), which are available on my [itch page](https://cygni.itch.io/).
+I make small games in Twine, Bitsy and Ren'py, which are available on my [itch page](https://cygni.itch.io/).
 
-I'd love to collaborate on an IF, VN, or narrative-focused game as an editor or producer. You can reach me on [twitter](https://twitter.com/cygni_a)!
+I'd love to collaborate on an IF, VN, or narrative-focused game as an editor or producer. You can reach me on [bsky](https://bsky.app/profile/cygni-a.bsky.social)!
 
 <!---
 cygni-a/cygni-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
